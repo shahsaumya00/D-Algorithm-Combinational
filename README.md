@@ -3,4 +3,4 @@ The D algorithm is a deterministic ATPG method. Implemented D algorithm for comb
 
 ## Commands to Run
 g++ d_algorithm.cpp \
-./a.out \
+./a.out 
